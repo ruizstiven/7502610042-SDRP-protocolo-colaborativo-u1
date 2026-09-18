@@ -9,4 +9,3 @@ public class MainError {
         objetoPrueba.metodoEstatico();
     }
 }
-//

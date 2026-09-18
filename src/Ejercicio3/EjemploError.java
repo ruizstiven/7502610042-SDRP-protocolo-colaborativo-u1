@@ -7,4 +7,3 @@ public class EjemploError {
         System.out.println(this.mensaje);
     }
 }
-//
