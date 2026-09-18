@@ -21,4 +21,3 @@ public class Estudiante {
         System.out.println("Estudiante: " + this.nombre + " | Edad: " + this.edad + " años");
     }
 }
-//
