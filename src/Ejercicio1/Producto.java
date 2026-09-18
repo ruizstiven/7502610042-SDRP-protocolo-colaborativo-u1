@@ -16,4 +16,3 @@ public class Producto {
         System.out.println("Ejercicio1.Producto: " + this.nombre + " | Precio: $" + this.precio);
     }
 }
-//
